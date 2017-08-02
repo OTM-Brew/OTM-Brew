@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Liberator;
+    src: url(fonts/Liberator.otf);
+}
+@font-face {
+    font-family: Roboto-Medium;
+    src: url(fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+/*@font-face {
+    font-family: Lato-RegularItalic;
+    src: url(fonts/Lato-RegularItalic.ttf);
+}*/
